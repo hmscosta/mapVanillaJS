@@ -1,0 +1,17 @@
+body{
+    background-color: grey;
+}
+
+div.center{
+    background-color: white;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    border: 3px solid grey;
+    padding: 10px;
+}
+
+input{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
