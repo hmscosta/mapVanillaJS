@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <link rel="stylesheet" href="css/styles.css">
-        <title>Map Vanilla</title>
+        <title>Mapa eleições</title>
        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
         integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
         crossorigin=""/>
@@ -13,7 +13,9 @@
     </head>
 
     <body>
-        <h1>Interactive map</h1>
+        <h1>Mapa das eleições</h1>
+        <button onclick="adicionarLayers()">Adicionar layers</button>
+        <button onclick="removerLayers()">Remover layers</button>
         <div id="map"></div> 
 
         <script src="municipios/geoData/municipios.js"></script>
