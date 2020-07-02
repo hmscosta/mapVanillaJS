@@ -1,7 +1,6 @@
- 
- <img src="https://img.shields.io/github/repo-size/hmscosta/mapa_Eleicoes?style=plastic"/>
- <img src="https://img.shields.io/github/languages/count/hmscosta/mapa_Eleicoes?style=plastic"/>
- <img src="https://img.shields.io/github/languages/top/hmscosta/mapa_Eleicoes?style=plastic"/>
+![Top Language](https://img.shields.io/github/languages/top/hmscosta/mapa_Eleicoes?style=plastic)
+![Count Language](https://img.shields.io/github/languages/count/hmscosta/mapa_Eleicoes?style=plastic)
+![Repo Size](https://img.shields.io/github/repo-size/hmscosta/mapa_Eleicoes?style=plastic)
 
 
 ## Mapa Eleições
