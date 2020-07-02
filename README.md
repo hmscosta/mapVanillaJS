@@ -4,6 +4,13 @@
 ![Issues](https://img.shields.io/github/issues/hmscosta/mapa_Eleicoes?style=plastic)
 ![Licence](https://img.shields.io/github/license/hmscosta/mapa_Eleicoes?style=plastic)
 
-## Mapa Eleições
-Este projeto é um mapa interativo que mostra os dados das eleições passadas
+# Mapa Eleições
+
+## Screenshoots
+
+![Map1](/screenshoots/map1.png)
+
+## Introduction
+
+This is an interactive map that uses [Leaflet](https://leafletjs.com/) to display an map with the data of the elections from 1945 until 2018 provided by TSE (Tribunal Superior Eleitoral)
 
